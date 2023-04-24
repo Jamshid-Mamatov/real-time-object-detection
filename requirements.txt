@@ -1,0 +1,4 @@
+pafy
+numpy
+opencv-python
+torch
